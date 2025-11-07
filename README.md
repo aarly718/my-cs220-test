@@ -16,4 +16,4 @@ This project does super cool stuff!
 * List
 
 Here's a Line: 
----
+---This line was added locally via Git Bash.
